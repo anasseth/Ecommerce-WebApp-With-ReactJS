@@ -1,0 +1,47 @@
+.Categories {
+    height: 600px;
+    width: 23%;
+border-right: 3px solid purple;
+    background-color: white;
+    /* border: 2px solid purple; */
+    color: #8A4A93;
+    font-size: 20px;
+    transition-duration: 0.3s;
+}
+.Categories:Hover{
+    transition-duration: 0.3s;
+    border-right: 3px solid transparent;
+    box-shadow: 10px 10px 21px -4px rgba(138,74,147,1);
+}
+
+.CategoryTitle {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* background-color: purple; */
+    color: #8A4A93;
+}
+
+.ListTitle {
+    margin: 2px;
+    color: #8A4A93;
+    font-size: 17px;
+    text-align: left;
+    margin-top: 5px;
+    font-weight: 600;
+    padding: 7px;
+    border-left: 4px solid purple;
+    transition-duration: 0.3s;
+    text-decoration: none;
+}
+
+.ListTitle:Hover {
+    border-left: 4px solid #21AAC3;
+    transition-duration: 0.3s;
+    color:#21AAC3;
+    /* box-shadow: -1px 38px 21px -26px rgba(138,74,147,1); */
+}
+
+.List {
+    padding: 6px
+}
