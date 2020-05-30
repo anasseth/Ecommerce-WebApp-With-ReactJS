@@ -15,13 +15,13 @@ function App() {
   return (
     <div className="App">
 
-      {/*       
+{/*             
       <Router>
         <StoreHeader />
       </Router> */}
 
-
-      <Router>
+{/* Admin DashBoard Panel Work */}
+      {/* <Router>
         <AdminStoreHeader />
         
       </Router>
@@ -34,12 +34,12 @@ function App() {
 
         <AdminDashBoardPanel />
 
-      </div>
+      </div> */}
 
 
 
 
-      {/*       
+{/*             
       <Router>
         <StoreHeader />
       </Router> */}
@@ -54,8 +54,8 @@ function App() {
       <ShoppingPanel />
       </div> */}
 
-
-      {/* <ReviewCart /> */}
+{/* 
+      <ReviewCart /> */}
 
 
 

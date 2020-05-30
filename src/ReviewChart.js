@@ -10,7 +10,7 @@ function ReviewCart() {
       <div className="ReviewChart">
         <div className='ReviewCartHeading'>Review Cart</div>
         <div className='TableCart'>
-
+ 
 
           <table >
 
