@@ -13,61 +13,59 @@
     text-align: center;
     justify-content: space-between;
     color: white;
-
-    box-shadow: -1px 30px 21px -26px rgba(188,89,156,1);
+    align-items: center;
+    box-shadow: -1px 30px 21px -26px #bc599c;
     text-align: center;
     transition-duration: 0.2s;
     font-size: 15px;
     font-weight: 700;
 }
-.header:Hover{
+
+.header:Hover {
     box-shadow: -1px 30px 21px -26px rgb(255, 2, 175);
-    /* border-bottom: 5px solid transparent; */
-    transition-duration: 0.2s;
+   transition-duration: 0.2s;
 }
-.logo{
-    height:40px;
-    /* margin-left: -50px; */
-    /* margin:15px */
+
+.logo {
+    height: 40px;
+ }
+
+.logoAdminStoreHeader {
+    margin-right: 40px;
 }
-.StoreTitleHeader{
-color:deeppink;
+
+.StoreTitleHeader {
+    color: deeppink;
     font-size: 20px;
     transition-duration: 0.7s;
 }
-.StoreTitleHeader:hover{
-    color:deeppink;
+.AdminStoreTitleHeader {
+    color: white;
+    font-size: 20px;
+    transition-duration: 0.7s;
+}
+
+.StoreTitleHeader:hover {
+    color: deeppink;
     transition-duration: 0.3s;
-
 }
 
-/* .heading {
-    margin-top: 30px;
-} */
-.gadgets{
-    color:red
+.gadgets {
+    color: red
 }
-/* #hoshiyaar {
-    margin-left: -15px;
-    float: right;
-    margin-top: -65px;
-} */
 
 #guest {
     color: white;
-    /* background-color: #21AAC3; */
-    background-image: linear-gradient(90deg,purple,#21AAC3);
-    /* border-bottom: 2px solid #DF0000; */
+    background-image: linear-gradient(90deg, purple, #21AAC3);
     font-size: 50px;
-
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 7px;
+    border: 2px solid white;
     padding-bottom: 7px;
     font-family: 'Anton', sans-serif;
     margin-top: 40px;
     transition-duration: 0.5s;
-    /* border-radius: px; */
     font-size: 15px;
     text-decoration: none;
 }
@@ -75,5 +73,10 @@ color:deeppink;
 #guest:hover {
     color: white;
     transition-duration: 0.5s;
-    /* color: #139ad3; */
+}
+
+.Dp {
+    height: 40px;
+    margin-right: 20px;
+    border: 2px solid white;
 }
