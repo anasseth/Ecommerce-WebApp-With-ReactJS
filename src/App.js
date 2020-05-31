@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import logo from './logo.svg';
 import './App.css';
+import AdminLogIn from './AdminLogIn.js'
 import StoreHeader from './StoreHeader/StoreHeader.js'
 import AdminStoreHeader from './StoreHeader/AdminStoreHeader.js'
 import AdminStoreHeader2 from './StoreHeader/AdminStoreHeader2.js'
@@ -15,12 +15,12 @@ function App() {
   return (
     <div className="App">
 
-{/*             
+      {/*             
       <Router>
         <StoreHeader />
       </Router> */}
 
-{/* Admin DashBoard Panel Work */}
+      {/* Admin DashBoard Panel Work */}
       {/* <Router>
         <AdminStoreHeader />
         
@@ -39,25 +39,25 @@ function App() {
 
 
 
-{/*             
+
       <Router>
         <StoreHeader />
-      </Router> */}
+      </Router>
 
 
-      {/* <hr />
       <hr />
-      <hr /> */}
+      <hr />
+      <hr />
 
       {/* <div className='box'>
       <Categories />
       <ShoppingPanel />
       </div> */}
 
-{/* 
+      {/* 
       <ReviewCart /> */}
 
-
+      <AdminLogIn />
 
 
     </div>
