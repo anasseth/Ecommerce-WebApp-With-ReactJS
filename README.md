@@ -1,4 +1,4 @@
-# The Project is not Completed Yet Therefore To CheckOut The Progress Kindly Refer To The Folder 'Project Snaps' Where You Will Find The # SnapShot Of The Project UI 
+# The Project is not Completed Yet Therefore To CheckOut The Progress Kindly Refer To The Folder 'Project Snaps' Where You Will Find The SnapShot Of The Project UI 
 
 
 
