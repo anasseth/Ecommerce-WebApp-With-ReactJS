@@ -1,8 +1,7 @@
 import './StoreHeader.css';
-import React, { Component } from 'react';
+import React from 'react';
 import { Route, Link, BrowserRouter as Router, Switch } from 'react-router-dom';
 import logo from './gogad3.PNG'
-import logoTitle from './gogad4.PNG'
 
 
 function StoreHeader() {

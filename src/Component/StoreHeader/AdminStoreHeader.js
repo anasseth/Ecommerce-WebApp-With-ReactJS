@@ -5,7 +5,7 @@ import logo from './gogad3.PNG'
 import Dp from './anas.jpg'
 import logoTitle from './gogad4.PNG'
 // import '../Dashboard.css'
-import SideBar from '../Dashboard.js'
+import SideBar from '../Dashboard/Dashboard.js'
 import { slide as Menu } from "react-burger-menu";
 
 

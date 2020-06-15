@@ -1,7 +1,7 @@
 import React from 'react';
 import './AdminDashBoardPanel.css';
 import { ProgressBar } from 'react-bootstrap';
-import Graph from './StoreHeader/graph.png'
+import Graph from '../StoreHeader/graph.png'
 
 
 

@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './Categories.css';
 // import StoreHeader from './StoreHeader/StoreHeader.js'
 // import { Route, Link, BrowserRouter as Router, Switch } from 'react-router-dom';

@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './StoreHeader/gogad3.PNG';
+import logo from '../StoreHeader/gogad3.PNG';
 import './AdminLogIn.css';
 
 function AdminLogIn() {

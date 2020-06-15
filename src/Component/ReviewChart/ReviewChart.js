@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './StoreHeader/gogad3.PNG';
+import logo from '../StoreHeader/gogad3.PNG';
 import './ReviewChart.css';
 // import StoreHeader from './StoreHeader/StoreHeader.js'
 // import { Route, Link, BrowserRouter as Router, Switch } from 'react-router-dom';
